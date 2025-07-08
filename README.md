@@ -1,8 +1,19 @@
-# 🧠 Linux Upskill Challenge (Haroon Hanif)
+# Linux Upskill Challenge – Haroon Hanif
 
-This repo contains my daily notes, scripts, and solutions while learning Linux system administration through practical exercises.
+Welcome to my Linux learning journey. This repository documents hands-on tasks from the Linux Upskill Challenge and related practice projects.
 
 ---
 
-✅ Cron Cleanup Script  
-📁 Location: linux upskill directory: mywork: cron_cleanup.md
+# Table of Contents
+
+| Task | File |
+|------|------|
+| 🧹 Cron Cleanup Script | [cron_cleanup.md](mywork/cron_cleanup.md) |
+| 🔐 SSH Authentication & Hardening | [ssh_authentication_hardening.md](mywork/ssh_authentication_hardening.md) |
+| 💾 Automated Backup Script | [automated_backup_solution.md](mywork/automated_backup_solution.md) |
+| 🌐 Apache Web Server with Log Rotation | [web_server_with_log_rotation.md](mywork/web_server_with_log_rotation.md) |
+
+---
+
+🛠  All tasks are tested and documented with steps, scripts, and screenshots.
+
