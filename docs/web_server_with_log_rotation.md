@@ -52,3 +52,9 @@ Forced test:
 sudo logrotate -f /etc/logrotate.d/httpd
 ls /var/log/httpd/
 
+---
+
+# Screenshot
+
+![Apache Server Screenshot](apache server page.png)
+![Apache Server Screenshot](apache server page 2.png)

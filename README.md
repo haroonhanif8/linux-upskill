@@ -1,19 +1,21 @@
-# Linux Upskill Challenge – Haroon Hanif
+## Linux Sysadmin Portfolio
 
-Welcome to my Linux learning journey. This repository documents hands-on tasks from the Linux Upskill Challenge and related practice projects.
+### 1. 🌐 Apache Web Server Setup (with Log Rotation)
+- 📘 [Documentation](docs/web_server_with_log_rotation.md)
+- 🖼️ [Screenshot 1](screenshots/Appache server page.png)
+- 🖼️ [Screenshot 2](screenshots/Appache server page 2.png)
 
----
+### 2. 🔐 SSH Authentication & Hardening
+- 📘 [Documentation](docs/ssh_authentication_hardening.md)
 
-# Table of Contents
+### 3. 🧪 Server Health Checker
+- 📘 [Documentation](docs/server_health_checker.md)
+- ⚙️ [Script](scripts/server_health_check.sh)
 
-| Task | File |
-|------|------|
-| 🧹 Cron Cleanup Script | [cron_cleanup.md](mywork/cron_cleanup.md) |
-| 🔐 SSH Authentication & Hardening | [ssh_authentication_hardening.md](mywork/ssh_authentication_hardening.md) |
-| 💾 Automated Backup Script | [automated_backup_solution.md](mywork/automated_backup_solution.md) |
-| 🌐 Apache Web Server with Log Rotation | [web_server_with_log_rotation.md](mywork/web_server_with_log_rotation.md) |
+### 4. 🧹 Cron Cleanup Script
+- 📘 [Documentation](docs/cron_cleanup.md)
 
----
-
-🛠  All tasks are tested and documented with steps, scripts, and screenshots.
+### 5. 💾 Automated Backup Script
+- 📘 [Documentation](docs/automated_backup_solution.md)
+- ⚙️ [Script](scripts/backup_mydata.sh)
 
