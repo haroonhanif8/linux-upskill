@@ -8,7 +8,7 @@ Welcome to my Linux learning journey. This repository documents hands-on tasks f
 
 | # | Task | Documentation | Script | Screenshot |
 |---|------|---------------|--------|------------|
-| 1 | 🌐 Apache Web Server Setup | [web_server_with_log_rotation.md](docs/web_server_with_log_rotation.md) | [apache_setup_with_log_rotation.sh](scripts/apache_setup_with_log_rotation.sh) | [Appache server page.png](screenshots/Appache server page.png), [Appache server page 2.png](screenshots/Appache server page2.png) |
+| 1 | 🌐 Apache Web Server Setup | [web_server_with_log_rotation.md](docs/web_server_with_log_rotation.md) | [apache_setup_with_log_rotation.sh](scripts/apache_setup_with_log_rotation.sh) | [Apache-server-page.png](screenshots/Apache-server-page.png), [Apache-server-page-2.png](screenshots/Apache-server-page-2.png) |
 | 2 | 🔐 SSH Authentication & Hardening | [ssh_authentication_hardening.md](docs/ssh_authentication_hardening.md) | [ssh_hardening.sh](scripts/ssh_hardening.sh) | ❌ |
 | 3 | 🧪 Server Health Checker | [server_health_checker.md](docs/server_health_checker.md) | [server_health_check.sh](scripts/server_health_check.sh) | ❌ |
 | 4 | 🧹 Cron Cleanup Script | [cron_cleanup.md](docs/cron_cleanup.md) | [cron_cleanup.sh](scripts/cron_cleanup.sh) | ❌ |
