@@ -1,0 +1,4 @@
+john:developers
+sara:designers
+mike:admins
+lisa:admins
