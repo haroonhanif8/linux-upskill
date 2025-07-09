@@ -1,21 +1,22 @@
-## Linux Sysadmin Portfolio
+# Linux Sysadmin – Haroon Hanif
 
-### 1. 🌐 Apache Web Server Setup (with Log Rotation)
-- 📘 [Documentation](docs/web_server_with_log_rotation.md)
-- 🖼️ [Screenshot 1](screenshots/Appache server page.png)
-- 🖼️ [Screenshot 2](screenshots/Appache server page 2.png)
+Welcome to my Linux learning journey. This repository documents hands-on tasks from the Linux Upskill Challenge and related practice projects.
 
-### 2. 🔐 SSH Authentication & Hardening
-- 📘 [Documentation](docs/ssh_authentication_hardening.md)
+---
 
-### 3. 🧪 Server Health Checker
-- 📘 [Documentation](docs/server_health_checker.md)
-- ⚙️ [Script](scripts/server_health_check.sh)
+## 📂 Sysadmin Portfolio Projects
 
-### 4. 🧹 Cron Cleanup Script
-- 📘 [Documentation](docs/cron_cleanup.md)
+| # | Task | Documentation | Script | Screenshot |
+|---|------|---------------|--------|------------|
+| 1 | 🌐 Apache Web Server Setup | [web_server_with_log_rotation.md](docs/web_server_with_log_rotation.md) | ❌ | [apache_server_output.png](screenshots/apache_server_output.png) |
+| 2 | 🔐 SSH Authentication & Hardening | [ssh_authentication_hardening.md](docs/ssh_authentication_hardening.md) | [ssh_hardening.sh](scripts/ssh_hardening.sh) | ❌ |
+| 3 | 🧪 Server Health Checker | [server_health_checker.md](docs/server_health_checker.md) | [server_health_check.sh](scripts/server_health_check.sh) | ❌ |
+| 4 | 🧹 Cron Cleanup Script | [cron_cleanup.md](docs/cron_cleanup.md) | [cron_cleanup.sh](scripts/cron_cleanup.sh) | ❌ |
+| 5 | 💾 Automated Backup Script | [automated_backup_solution.md](docs/automated_backup_solution.md) | [backup_mydata.sh](scripts/backup_mydata.sh) | ❌ |
+| 6 | 👥 User & Group Management | [user_group_management.md](docs/user_group_management.md) | [manage_users.sh](scripts/manage_users.sh) | [user_mgmt_run.png](screenshots/user_mgmt_run.png) |
+| 7 | 🔥 firewalld Setup & Automation | [firewalld_setup.md](docs/firewalld_setup.md) | [firewall_config.sh](scripts/firewall_config.sh) | [firewalld_status.png](screenshots/firewalld_status.png) |
 
-### 5. 💾 Automated Backup Script
-- 📘 [Documentation](docs/automated_backup_solution.md)
-- ⚙️ [Script](scripts/backup_mydata.sh)
+---
+
+🛠 All tasks are tested and documented with steps, scripts, and screenshots (where applicable).
 
