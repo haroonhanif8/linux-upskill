@@ -10,7 +10,6 @@ Configure secure SSH access using key-based authentication, disable password and
 
 Used the ED25519 algorithm (modern, fast, secure):
 
-```bash
 ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519
 
 #2. Verified Key Fingerprints
@@ -44,3 +43,7 @@ sudo systemctl restart sshd
 Also used:
 sudo sshd -T | grep -E "permitrootlogin|passwordauthentication"
 #To confirm current settings.
+
+# Script:
+
+[ssh_hardening.sh](../scripts/ssh_hardening.sh)

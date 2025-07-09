@@ -22,3 +22,7 @@ sudo /etc/cron.daily/cleanup_tmp
 
 # Verified it runs via:
 cat /tmp/cron_test.log
+
+## ⚙️ Script:
+
+[cron_cleanup.sh](../scripts/cron_cleanup.sh)
