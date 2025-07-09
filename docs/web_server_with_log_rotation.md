@@ -56,8 +56,8 @@ ls /var/log/httpd/
 
 # Screenshot
 
-![Apache Server Screenshot](apache server page.png)
-![Apache Server Screenshot](apache server page 2.png)
+![Apache Server Screenshot](Appache server page.png)
+![Apache Server Screenshot](Appache server page 2.png)
 
 
 #Script:
