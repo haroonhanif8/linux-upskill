@@ -58,3 +58,8 @@ ls /var/log/httpd/
 
 ![Apache Server Screenshot](apache server page.png)
 ![Apache Server Screenshot](apache server page 2.png)
+
+
+#Script:
+
+[apache_setup_with_log_rotation.sh](../scripts/apache_setup_with_log_rotation.sh)
